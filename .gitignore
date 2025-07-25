@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Add streamlit folder to do not cimmit  api key
+.streamlit/
+
+
 # Distribution / packaging
 .Python
 build/
